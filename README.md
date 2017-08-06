@@ -1,7 +1,6 @@
 Certifications
 ==============
 
-* Certifications
 * Coursera A Crash Course in Data Science.pdf
 * Coursera Big Data - Capstone Project (2015).pdf
 * Coursera Big Data (2015).pdf
