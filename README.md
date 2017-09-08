@@ -31,6 +31,7 @@ Certifications
 * Coursera Machine Learning Regression.pdf
 * Coursera Machine Learning With Big Data (2015).pdf
 * Coursera Managing Data Analysis.pdf
+* Coursera Parallel Programming.pdf
 * Coursera Practical Machine Learning.pdf
 * Coursera Python.pdf
 * Coursera R Programming.pdf
