@@ -1,4 +1,4 @@
-Certifications
+Certifications 
 ==============
 
 * Coursera A Crash Course in Data Science.pdf
