@@ -4,6 +4,7 @@ Certifications
 * Coursera A Crash Course in Data Science.pdf
 * Coursera Big Data - Capstone Project (2015).pdf
 * Coursera Big Data (2015).pdf
+* Coursera Big Data Analysis with Scala and Spark.pdf
 * Coursera Biostatistics I 2014.pdf
 * Coursera Biostatistics II 2014.pdf
 * Coursera Building a Data Science Team.pdf
