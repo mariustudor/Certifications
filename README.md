@@ -2,6 +2,7 @@ Certifications
 ==============
 
 * Coursera A Crash Course in Data Science.pdf
+* Coursera Andrew Ng Deep Learning.pdf
 * Coursera Big Data (2015).pdf
 * Coursera Big Data - Capstone Project (2015).pdf
 * Coursera Big Data Analysis with Scala and Spark.pdf
@@ -9,6 +10,7 @@ Certifications
 * Coursera Biostatistics II 2014.pdf
 * Coursera Building a Data Science Team.pdf
 * Coursera Carlos Guestrin Machine Learning.pdf
+* Coursera Convolutional Neural Networks.pdf
 * Coursera Cryptography 2014.pdf
 * Coursera Data Science Capstone.pdf
 * Coursera Data Science in Real Life.pdf
@@ -25,6 +27,7 @@ Certifications
 * Coursera Getting and Cleaning Data.pdf
 * Coursera Graph Analytics for Big Data (2015).pdf
 * Coursera Hadoop Platform and Application Framework.pdf
+* Coursera Improving Deep Neural Networks Hyperparameter tuning Regularization and Optimization.pdf
 * Coursera Introduction to Big Data (2015).pdf
 * Coursera Introduction to Big Data Analytics (2015).pdf
 * Coursera Machine Learning 2014.pdf
@@ -41,4 +44,6 @@ Certifications
 * Coursera R Programming.pdf
 * Coursera Regression Models.pdf
 * Coursera Reproducible Research.pdf
+* Coursera Sequence Models.pdf
+* Coursera Structuring Machine Learning Projects.pdf
 * Coursera The Data Scientist's Toolbox.pdf
