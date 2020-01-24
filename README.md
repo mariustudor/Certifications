@@ -32,7 +32,7 @@ Certifications
 * Coursera Introduction to Big Data Analytics (2015).pdf
 * Coursera Machine Learning 2014.pdf
 * Coursera Machine Learning Classiffication.pdf
-* Coursera Machine Learning Clustering & Retreival.pdf
+* Coursera Machine Learning Clustering & Retrieval.pdf
 * Coursera Machine Learning Foundations A Case Study Approach.pdf
 * Coursera Machine Learning Regression.pdf
 * Coursera Machine Learning With Big Data (2015).pdf
