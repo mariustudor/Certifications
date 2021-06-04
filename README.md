@@ -9,6 +9,7 @@ Certifications
 * Coursera Biostatistics I 2014.pdf
 * Coursera Biostatistics II 2014.pdf
 * Coursera Building a Data Science Team.pdf
+* Coursera Building Python Applications on AWS
 * Coursera Carlos Guestrin Machine Learning.pdf
 * Coursera Convolutional Neural Networks.pdf
 * Coursera Cryptography 2014.pdf
